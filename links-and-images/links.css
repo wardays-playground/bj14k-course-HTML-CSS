@@ -1,0 +1,13 @@
+body {
+    color           : #414141;
+    background-color: #EEEEEE;
+    font-size       : 16px;
+}
+
+div {
+    font-size: 2em;
+
+}
+div h1 {
+    width: 2rem;
+}
